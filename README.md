@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="images/resized.jpg></img>
+<img src="images/resized.jpg>
 
 <!--
 **ashraful-talukder/ashraful-talukder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
