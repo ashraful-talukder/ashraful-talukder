@@ -1,5 +1,5 @@
 <img src="images/resized.jpg">
-<h1 align = "center">Md. Ashraful Islam Talukder<br><a href = "https://www.facebook.com/ash.talukder/"><img src = "images/facebook.png" width = "42px"></a><a href = "https://github.com/ashraful-talukder"><img src = "images/github.png" width = "30px"></a></h1>
+<h1 align = "center">Md. Ashraful Islam Talukder<br><a href = "https://www.facebook.com/ash.talukder/"><img src = "images/facebook.png" width = "30px"></a>  <a href = "https://github.com/ashraful-talukder"><img src = "images/github.png" width = "30px"></a></h1>
 
 
 <!--
