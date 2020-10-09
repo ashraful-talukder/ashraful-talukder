@@ -1,6 +1,5 @@
-<h1 align = "center">Md. Ashraful Islam Talukder</h1>
-
 <img src="images/resized.jpg">
+<h1 align = "center">Md. Ashraful Islam Talukder</h1>
 
 <!--
 **ashraful-talukder/ashraful-talukder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
