@@ -10,7 +10,17 @@
   <img src = "images/language/c-original.svg" title="C" width = "24px"> 
   <img src = "images/language/java-original.svg" title="java" width = "36px"> 
   <img src = "images/language/python-original.svg" title="Python" width = "24px"> 
-  <img src = "images/language/php-original.svg" title="php" width = "30px"> <img src = "images/language/javascript-original.svg" title="JavaScript" width = "24px"> <img src = "images/language/html5-original.svg" title="HTML5" width = "24px"> <img src = "images/language/css3-original.svg" title="CSS3" width = "24px"> <img src = "images/language/bootstrap-plain.svg" title="Bootstrap" width = "24px"> <img src = "images/language/mysql-original.svg" title="MySQL" width = "24px"> <img src = "images/language/oracle-original.svg" title="Oracle" width = "34px"> <img src = "images/language/apache-original.svg" title="Apache" width = "34px"> <img src = "images/language/android-original.svg" title="Android" width = "24px">    <img src = "images/language/git-original.svg" title="Git" width = "24px">    </p>
+  <img src = "images/language/php-original.svg" title="php" width = "30px"> 
+  <img src = "images/language/javascript-original.svg" title="JavaScript" width = "24px"> 
+  <img src = "images/language/html5-original.svg" title="HTML5" width = "24px"> 
+  <img src = "images/language/css3-original.svg" title="CSS3" width = "24px"> 
+  <img src = "images/language/bootstrap-plain.svg" title="Bootstrap" width = "24px"> 
+  <img src = "images/language/mysql-original.svg" title="MySQL" width = "24px"> 
+  <img src = "images/language/oracle-original.svg" title="Oracle" width = "34px"> 
+  <img src = "images/language/apache-original.svg" title="Apache" width = "34px"> 
+  <img src = "images/language/android-original.svg" title="Android" width = "24px">
+  <img src = "images/language/git-original.svg" title="Git" width = "24px">
+</p>
 
 <br>
 <a href = "https://github.com/ashraful-talukder/github-readme-stats">
