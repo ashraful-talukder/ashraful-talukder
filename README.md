@@ -13,7 +13,7 @@
   <img src = "images/language/php-original.svg" title="php" width = "30px"> 
   <img src = "images/language/javascript-original.svg" title="JavaScript" width = "24px">
   <img src= "images/language/springio-icon.svg" title="Spring" width = "24px">
-  <img src= "images/language/spring-boot.png" title="Spring Boot" width = "30px"> 
+  <img src= "images/language/spring-boot.png" title="Spring Boot" width = "28px"> 
   <img src = "images/language/html5-original.svg" title="HTML5" width = "24px"> 
   <img src = "images/language/css3-original.svg" title="CSS3" width = "24px"> 
   <img src = "images/language/bootstrap-plain.svg" title="Bootstrap" width = "24px"> 
