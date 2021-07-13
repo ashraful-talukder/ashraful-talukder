@@ -6,7 +6,7 @@
 
 
 <h2 align = "center">Languages & Tools</h2>
-<p align = "center">
+<div align = "center">
   <img src = "images/language/c-original.svg" title="C" width = "24px"> 
   <img src = "images/language/java-original.svg" title="java" width = "36px"> 
   <img src = "images/language/python-original.svg" title="Python" width = "24px"> 
@@ -20,7 +20,7 @@
   <img src = "images/language/apache-original.svg" title="Apache" width = "34px"> 
   <img src = "images/language/android-original.svg" title="Android" width = "24px">
   <img src = "images/language/git-original.svg" title="Git" width = "24px">
-</p>
+</div>
 
 <br>
 <a href = "https://github.com/ashraful-talukder/github-readme-stats">
