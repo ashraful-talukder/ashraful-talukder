@@ -29,6 +29,6 @@
 <br>
 
 <a href="https://github.com/ashraful-talukder/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful-talukder&layout=compact&theme=vue&langs_count=6" align = "center" width="375"></a> <a href = "https://github.com/ashraful-talukder/github-readme-stats">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ashraful-talukder&show_icons=true&count_private=true&theme=vue" align = "center" width="250">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ashraful-talukder&show_icons=true&count_private=true&theme=vue" align = "center" width="350">
 </a>
 
