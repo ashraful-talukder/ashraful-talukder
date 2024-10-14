@@ -1,4 +1,4 @@
-<img src="images/Streaming.gif" style="border-radius: 4px;">
+<img src="images/Streaming.gif" style="border-radius: 25px;">
 <h1 align = "center">Md. Ashraful Islam Talukder<br> <a href = "https://www.linkedin.com/in/ashraful-talukder/" title = "Connect with me on LinkedIn"><img src = "images/linkedin.png" width = "25px" height = "25px"></a> • <a href = "https://www.facebook.com/ash.talukder/" title = "Follow me on Facebook"><img src = "images/facebook-circular-logo.png" width = "25px" height = "24px"></a> • <a href = "https://www.researchgate.net/profile/Md_Talukder11" title = "find me on ResearchGate"><img src = "images/rg.svg" width = "25px" height = "25px"></a> • <a href = "https://twitter.com/ash_talukder" title = "Follow me on Twitter"><img src = "images/twitter.png" width = "25px" height = "25px"></a> • <a href = "https://www.instagram.com/ashraful_talukder/" title = "Follow me on Instagram"><img src = "images/instagram.png" width = "25px" height = "25px"></a><br></h1>
 
 
